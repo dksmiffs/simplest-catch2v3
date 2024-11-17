@@ -2,7 +2,7 @@
 
 On some Linux flavor, no sudo required:
 
-1. Assumes CMake and a C++ compiler are available
+1. Assume CMake and a C++ compiler are available
 1. `git clone` this repo to your local machine
 1. `cd simplest-catch2v3`
 1. `cmake -S ./src -B ./build`
