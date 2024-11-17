@@ -8,3 +8,5 @@ On some Linux flavor, no sudo required:
 1. `cmake -S ./src -B ./build`
 1. `cmake --build ./build`
 1. `./build/tests`
+
+The single test should pass.
